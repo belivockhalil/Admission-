@@ -1,0 +1,5 @@
+upload/*
+!upload/default.jpg
+.vscode/
+.DS_Store
+Thumbs.db
